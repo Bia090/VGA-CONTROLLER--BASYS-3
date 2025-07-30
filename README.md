@@ -26,7 +26,11 @@ The project culminated in a fully functional Verilog module capable of:
 
 This project serves as a solid foundation for expanding into more complex graphical applications and interactive FPGA-based designs.
 
-### Demo of the video
+### Demo video
+
+
+https://github.com/user-attachments/assets/796c2c4b-d049-4366-bf73-be5c0e3772fc
+
 
 ![Demo Video](videos/video-demo.mp4)
 
